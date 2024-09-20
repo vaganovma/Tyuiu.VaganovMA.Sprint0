@@ -16,4 +16,4 @@ class Program
         Console.WriteLine("Мою любимую зовут " + name + " ей " + age + " годиков." +"Я ее очень сильно"+ you);
         Console.ReadKey();
     }
-}
+} 
